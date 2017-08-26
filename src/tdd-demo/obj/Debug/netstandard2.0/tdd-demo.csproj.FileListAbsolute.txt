@@ -1,0 +1,8 @@
+C:\Users\chris\src\tdd-demo\src\tdd-demo\bin\Debug\netstandard2.0\tdd-demo.deps.json
+C:\Users\chris\src\tdd-demo\src\tdd-demo\bin\Debug\netstandard2.0\tdd-demo.dll
+C:\Users\chris\src\tdd-demo\src\tdd-demo\bin\Debug\netstandard2.0\tdd-demo.pdb
+C:\Users\chris\src\tdd-demo\src\tdd-demo\obj\Debug\netstandard2.0\tdd-demo.csproj.CoreCompileInputs.cache
+C:\Users\chris\src\tdd-demo\src\tdd-demo\obj\Debug\netstandard2.0\tdd-demo.AssemblyInfoInputs.cache
+C:\Users\chris\src\tdd-demo\src\tdd-demo\obj\Debug\netstandard2.0\tdd-demo.AssemblyInfo.cs
+C:\Users\chris\src\tdd-demo\src\tdd-demo\obj\Debug\netstandard2.0\tdd-demo.dll
+C:\Users\chris\src\tdd-demo\src\tdd-demo\obj\Debug\netstandard2.0\tdd-demo.pdb

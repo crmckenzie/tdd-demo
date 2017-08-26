@@ -9,7 +9,8 @@ namespace tdd_demo.tests
         [Fact]
         public void Test1()
         {
-            1.ShouldBe(2);
+            var watcher = new Watcher();
+
         }
     }
 }

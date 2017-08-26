@@ -2,7 +2,7 @@
 
 namespace tdd_demo
 {
-    public class Class1
+    public class Watcher
     {
     }
 }
